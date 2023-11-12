@@ -1,9 +1,8 @@
 ###
-PaddlePaddle github地址：
+PaddlePaddle github地址：https://github.com/PaddlePaddle/PaddleOCR/blob/release/2.7/ppstructure/layout/README_ch.md
+将MNBVC项目中抽取的54篇pdf，每篇1/5页png，预测版面分析结果
+conda activate PaddlePaddle
 ###
-
-#将MNBVC项目中抽取的54篇pdf，每篇1/5页png，预测版面分析结果
-#conda activate PaddlePaddle
 import json 
 import os 
 import os.path as osp
