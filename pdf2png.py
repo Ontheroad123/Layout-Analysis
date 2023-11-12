@@ -4,7 +4,7 @@ import os
 import os.path as osp
 
 savename = ''
-pdfname = ''
+pdfname = '100pdf_png'
 for fil in os.listdir(pdfname):
   onepdf = osp.join(pdfname, fil)
   savepdf = osp.join(savename, fil)
