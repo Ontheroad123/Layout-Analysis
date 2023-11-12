@@ -1,0 +1,6 @@
+*.pyc
+*.pdf
+*.docx
+*.log
+*.jsonl
+*.DS_Store

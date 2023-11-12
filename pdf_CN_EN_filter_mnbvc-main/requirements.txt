@@ -1,0 +1,5 @@
+tqdm
+loguru
+zhon
+pdfplumber
+lingua
