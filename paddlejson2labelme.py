@@ -78,9 +78,9 @@ def convert_json(newpng, jsonname, newjson, h, w):
     
 dicts = ['text', 'title', 'figure', 'figure_caption', 'table', 'table_caption', 'header', 'footer', 'reference', 'equation']
 
-pngpath = '/home/hq/workspace/pdf-parse/100pdf_png'
-layout_path = '/home/hq/workspace/pdf-parse/100pdf_layout_cdla'
-label_path = '/home/hq/workspace/pdf-parse/100pdf_labelme'
+pngpath = './100pdf_png'
+layout_path = './100pdf_layout_cdla'
+label_path = './100pdf_labelme'
 for fil in os.listdir(layout_path):
   layout_path1 = osp.join(layout_path, fil)
   label_path1 = osp.join(label_path, fil)
