@@ -1,0 +1,47 @@
+{
+  "version": "4.5.6",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "figure",
+      "line_color": null,
+      "fill_color": null,
+      "points": [
+        [
+          64.69432445639593,
+          173.22065235412177
+        ],
+        [
+          1040.3057865362798,
+          173.22065235412177
+        ],
+        [
+          1040.3057865362798,
+          1485.1464497713907
+        ],
+        [
+          64.69432445639593,
+          1485.1464497713907
+        ]
+      ],
+      "shape_type": "polygon",
+      "flags": {}
+    }
+  ],
+  "lineColor": [
+    0,
+    255,
+    0,
+    128
+  ],
+  "fillColor": [
+    255,
+    0,
+    0,
+    128
+  ],
+  "imagePath": "D:\\MNBVC-layout-test\\14\\0938.pdf\\124.png",
+  "imageData": null,
+  "imageHeight": 1638,
+  "imageWidth": 1166
+}
